@@ -9,7 +9,7 @@ Classifies each slot as either Empty or Occupied.
 
 Applies confidence thresholding (≥ 0.7) to improve accuracy.
 
-Displays visual output with bounding boxes and confidence scores.
+Displays visual output with bounding boxes and confidence scores.  
 
 Features
 VGG16 as the backbone model with frozen layers.
